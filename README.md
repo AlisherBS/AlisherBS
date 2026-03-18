@@ -22,5 +22,5 @@
 ---
 
 ## 📫 Contact
-- Telegram: @your_username
-- Email: your@email.com
+- Telegram: @theflowski
+- Email: alisher@title.kz
