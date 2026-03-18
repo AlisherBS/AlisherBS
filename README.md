@@ -11,7 +11,12 @@
 - Docker, Git, Linux
 - FastAPI / Node.js
 - PostgreSQL
+  
+---
+## 🔒 About my work
 
+Most of my work is in private repositories (commercial projects),  
+but here you can find selected public projects and examples of my skills.
 ---
 
 ## 📊 GitHub Stats
